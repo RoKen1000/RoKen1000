@@ -1,4 +1,5 @@
 ### Hi there 👋
+Coding, Language and History enthusiast. 
 
 <!--
 **RoKen1000/RoKen1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
