@@ -1,5 +1,9 @@
 ### Hi there 👋
-Coding, Language and History enthusiast. 
+Full Stack JavaScript Developer using Node.js, Node-Postgres, Express, React, PSQL, and Jest.
+
+I am currently learning TypeScript and C#.
+
+<a href="https://ross-kennedy-dev.netlify.app/">View my portfolio website here.</a>
 
 <!--
 **RoKen1000/RoKen1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
