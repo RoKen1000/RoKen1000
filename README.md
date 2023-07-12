@@ -1,7 +1,7 @@
 ### Hi there 👋
-Full Stack JavaScript Developer using Node.js, Node-Postgres, Express, React, PSQL, and Jest.
+Full Stack Developer experienced in JavaScript, Node.js, TypeScript, PSQL, Node-Postgres, Express, React, and Jest.
 
-I am currently learning TypeScript, C# and .NET.
+I am currently learning C# .NET Core and ASP.NET.
 
 <a href="https://ross-kennedy-dev.netlify.app/">View my portfolio website here.</a>
 
