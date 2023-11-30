@@ -1,9 +1,7 @@
 ### Hi there 👋
-Full Stack Developer experienced in JavaScript, Node.js, TypeScript, PSQL, Node-Postgres, Express, React, and Jest.
+Full Stack Developer experienced in C#, .NET Core and ASP.NET MVC with SQL Server. 
 
-I am currently learning C#, .NET Core and ASP.NET MVC with SQL Server.
-
-<a href="https://ross-kennedy-dev.netlify.app/">View my portfolio website here.</a>
+I also have experience with JavaScript, Node.js, TypeScript, PSQL, Node-Postgres, and React.
 
 <!--
 **RoKen1000/RoKen1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
